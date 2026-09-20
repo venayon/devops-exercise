@@ -2,4 +2,6 @@
 .DS_Store
 
 # JetBrains IDEs
-.idea/clea
+.idea/clear
+
+ .idea/git_toolbox_prj.xml
